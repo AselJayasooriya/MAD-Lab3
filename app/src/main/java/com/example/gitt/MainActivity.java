@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     //new comment added
     //another comment after the cloning of the repo
     //comment added after the creation of the testBranch
+    //final comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
